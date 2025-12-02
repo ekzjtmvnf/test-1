@@ -75,7 +75,15 @@
 
 [네이버](http://www.naver.com)
 
-[네이버](http://www.naver.com, '드개쟈')
+[네이버](http://www.naver.com, '두과자')
+
+# 이미지
+
+![프로필 이미지](./window_object_1.jpg)
+
+
+
+
 
 
 
